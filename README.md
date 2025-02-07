@@ -1,4 +1,4 @@
-# familyplanner
+# family-planner
 **跨平台全栈方案**，整合Swift、Flutter、小程序框架及Python后端：
 
 ---
