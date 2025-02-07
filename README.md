@@ -1,5 +1,5 @@
 # familyplanner
-基于你的需求和技术偏好，结合最新技术动态，以下是优化后的**跨平台全栈方案**，整合Swift、Flutter、小程序框架及Python后端：
+**跨平台全栈方案**，整合Swift、Flutter、小程序框架及Python后端：
 
 ---
 
